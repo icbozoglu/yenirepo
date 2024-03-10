@@ -1,0 +1,2 @@
+# yenirepo
+yeni repo oluşturdum
